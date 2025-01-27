@@ -1,0 +1,20 @@
+{
+    "resources": {
+        "audio_engine.json": {
+            "_ref_": "manifold://ww/langtech_stella_app_kws_2/audio_engine.json",
+            "hash": "2e042040f0dd45c33fa7f219b6575553f0c891677839ee385d2ce96b236ada3a",
+            "everstore_handle": "",
+            "size": 0,
+            "compressed_size": 0,
+            "type": 1
+        },
+        "ww_model.pt": {
+            "_ref_": "manifold://ww/langtech_stella_app_kws_2/ww_model.pt",
+            "hash": "635ee3dbbe7e589a32f71722a4826b7dc974074c6517bdab992a08dba18b47b1",
+            "everstore_handle": "",
+            "size": 0,
+            "compressed_size": 0,
+            "type": 1
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+  "CloudBackupDeleteAllMedia": {
+    "client_doc_id": "85132498417463274093511673092",
+    "schema": "facebook"
+  },
+  "CommitInProgressUpdate": {
+    "client_doc_id": "117864226912412754188464766656",
+    "schema": "facebook"
+  },
+  "CreateUserPhotoEdits": {
+    "client_doc_id": "38792165343165925802512792520",
+    "schema": "facebook"
+  },
+  "CreateUserVideoEdits": {
+    "client_doc_id": "265426734110432211293838203455",
+    "schema": "facebook"
+  },
+  "DeletePhotosVideosMutation": {
+    "client_doc_id": "45678241916431991603128315291",
+    "schema": "facebook"
+  },
+  "FBBloksAppRootQuery": {
+    "client_doc_id": "303463431612389335459831056824",
+    "schema": "facebook"
+  },
+  "FBBloksAsyncActionQuery": {
+    "client_doc_id": "6068063568494470059367803255",
+    "schema": "facebook"
+  },
+  "FRLDevicePrivacySettingsBySerialMutation": {
+    "client_doc_id": "21476229271739125851897261168",
+    "schema": "facebook"
+  },
+  "FRLDevicePrivacySettingsBySerialQuery": {
+    "client_doc_id": "1161078053135591627811752590",
+    "schema": "facebook"
+  },
+  "KGWeatherQuery": {
+    "client_doc_id": "418405219714195399820175845816",
+    "schema": "facebook"
+  },
+  "KGWeatherQueryCity": {
+    "client_doc_id": "11689761213162017132475561202",
+    "schema": "facebook"
+  },
+  "MediaUnderstanding": {
+    "client_doc_id": "12143982371021414261449028856",
+    "schema": "facebook"
+  },
+  "PhotosHubFirstMediaItem": {
+    "client_doc_id": "164257274316225256457146546695",
+    "schema": "facebook"
+  },
+  "PhotosHubMediaURL": {
+    "client_doc_id": "238327218111146481783737793072",
+    "schema": "facebook"
+  },
+  "PhotosHubUpdateLogs": {
+    "client_doc_id": "17343216048661249818180167326",
+    "schema": "facebook"
+  },
+  "PlacePageDiscoveryQuery": {
+    "client_doc_id": "23191217919647212706383821766",
+    "schema": "facebook"
+  },
+  "PremiumMusicVideoQuery": {
+    "client_doc_id": "8783111063739294926522117430",
+    "schema": "facebook"
+  },
+  "PublicPlaceDetectionQuery": {
+    "client_doc_id": "58527359917547091274084828282",
+    "schema": "facebook"
+  },
+  "Search": {
+    "client_doc_id": "3222088342776989128248310350",
+    "schema": "facebook"
+  },
+  "SearchPOI": {
+    "client_doc_id": "273027038110885072979789393345",
+    "schema": "facebook"
+  },
+  "SearchPOIByBearing": {
+    "client_doc_id": "5177715206848293084666732663",
+    "schema": "facebook"
+  },
+  "SearchPOINames": {
+    "client_doc_id": "16345136315754664379998176364",
+    "schema": "facebook"
+  },
+  "SearchPlace": {
+    "client_doc_id": "9207056717319629496256190385",
+    "schema": "facebook"
+  },
+  "SearchProductGrocery": {
+    "client_doc_id": "18494160312217258921954580792",
+    "schema": "facebook"
+  },
+  "StellaDeviceResgistration": {
+    "client_doc_id": "294863667610518851134923899852",
+    "schema": "facebook"
+  },
+  "StellaUpdateUserVoiceStorageStrategy": {
+    "client_doc_id": "24354148737370593065797675192",
+    "schema": "facebook"
+  },
+  "StellaUserDetails": {
+    "client_doc_id": "44026797313711925474193886138",
+    "schema": "facebook"
+  },
+  "StellaUserVoiceStorageStrategy": {
+    "client_doc_id": "4074234797106573666789846002",
+    "schema": "facebook"
+  },
+  "VestaBeginRegistration": {
+    "client_doc_id": "16680293315638450976849572975",
+    "schema": "facebook"
+  },
+  "VestaBeginRestore": {
+    "client_doc_id": "149825455416863833426209754156",
+    "schema": "facebook"
+  },
+  "VestaFinishRegistration": {
+    "client_doc_id": "35462913512107981300907974345",
+    "schema": "facebook"
+  },
+  "VestaFinishRestore": {
+    "client_doc_id": "1574908682964891428703261646",
+    "schema": "facebook"
+  },
+  "VestaInitRegistration": {
+    "client_doc_id": "352838927415042621853175470965",
+    "schema": "facebook"
+  },
+  "VestaInitRestore": {
+    "client_doc_id": "9941192794130774118047947859",
+    "schema": "facebook"
+  }
+}

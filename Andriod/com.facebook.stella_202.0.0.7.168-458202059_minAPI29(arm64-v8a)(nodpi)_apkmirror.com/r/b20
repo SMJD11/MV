@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "CalibDateTime": "2020-08-24-16-49-58",
+    "CalibTool": "stereo and intrinsic calibration",
+    "CubeCalibId": 1,
+    "CalibToolHash": "20200811141533",
+    "FormatVersionMajor": 2,
+    "FormatVersionMinor": 5,
+    "ID": "calibration"
+  },
+  "Devices": [
+    {
+      "BitDepth": 8,
+      "Calibration status": "success",
+      "CameraModel": {
+        "ModelName": "StereoMMS",
+        "Parameters": {
+            "cam0_optical_center": [ 1296.4121, 978.6095],
+            "Comment": "Center of distortions, in pixels from top-left corner, x,y",
+            "cam0_optical_center_shift": [ -8.8511, -10.9314],
+            "Comment": "Pinhole-like modification to rays after fisheye camera model",
+            "cam0_radius": 1552.0000,
+            "Comment": "raduis at FOV, Pixels",
+            "cam0_fov": 1.732414,
+            "Comment": "FOV at radius, radians",
+            "cam0_diagonal_fov": 104.829567,
+            "Comment": "Diagonal FOV of image, degrees",
+            "cam1_optical_center": [1294.5839, 972.7050],
+            "cam1_optical_center_shift": [ 3.1759, -2.5806],
+            "cam1_radius": 1557.5440,
+            "cam1_fov": 1.732414,
+            "cam1_diagonal_fov": 104.383717,
+            "cam1_to_cam0_angles": [0.00137448, 0.0171302, 0.0124932],
+            "Comment": "radians, Tait-Bryan angles XYZ (Z first, then X, then Y). cam0_coords = rotmat(cam1_to_cam0_angles) * cam1_coords",
+            "cam1_to_cam0_shift": [-130.78, -2.00, 1.30],
+            "Comment": "cam1 cam pos in cam0 cam coords, mm",
+            "cam0_distortions" : [ 0.004147, 0.009940, 0.018465, 0.028230, 0.035524, 0.038074, 0.033518,  0.020554 ],
+            "cam1_distortions" : [ 0.004476, 0.010598, 0.019378, 0.029230, 0.036521, 0.038902, 0.034217,  0.020953 ],
+            "Comment": "relative offsets (real_radius-ideal_radius)/radius_at_fov along the ideal theta-to-radius line [0,0]->[fov/2,radius], equally spaced along theta"
+        }
+      },
+      "Function": "stereo",
+      "ImageHeight": 1944,
+      "Comment": "Image width used for caibration, pixels. The calibration values are correct only for that resolution",
+      "ImageWidth": 2592,
+      "stereo_final_err": 0.312519,
+      "Comment": "Mean difference of vertical coordinates of the chess crosses after images rectification",
+      "position_final_err": 0.498136,
+      "position final err per camera": [ 0.530348, 0.464107 ],
+      "Comment": "Mean difference of theoretical and actual chess crosses positions in the images, in pixels. (! includes any cube inaccuracies !)",
+      "dewarp_err_cam0": 0.109843,
+      "dewarp errs of cam0 per wall": [ 0.112544, 0.090240, 0.129586, 0.106211, 0.085044 ],
+      "dewarp_err_cam1": 0.110187,
+      "dewarp errs of cam1 per wall": [ 0.100656, 0.121078, 0.112671, 0.091602, 0.124347 ],
+      "Comment": "dewarp errors are deviations of dewarped chess crosses with restect to straight lines, in pixels",
+      "Comment": "per-wall dewarp errrors are ordered Front, Left, Right, Top, Bottom",
+      "inliers_ratio": 100.0,
+      "Comment": "Percentage of inliers chess crosseses (with small error) with respect to all detected",
+      "Label": "cam0",
+      "LensModel": "F-theta"
+    }
+  ]
+}

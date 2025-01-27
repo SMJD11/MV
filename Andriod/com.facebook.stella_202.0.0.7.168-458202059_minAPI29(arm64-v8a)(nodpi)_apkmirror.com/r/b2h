@@ -1,0 +1,44 @@
+{
+  "Header": {
+    "CalibDateTime": "2020-08-24-04-55-10",
+    "CalibTool": "IMU to camera calibration",
+    "CalibToolHash": "9042409784086786",
+    "FormatVersionMajor": 1,
+    "FormatVersionMinor": 3,
+    "ID": "calibration"
+  },
+  "IMUs": [
+    {
+      "Calibration status": "IMU2CAM_NOT_ACCEPTABLE_GYRO_OFFSET",
+      "DeviceId": "010000",
+      "Label": "imu",
+      "SensorModel": "unknown",
+      "T_ir": {
+        "QuaternionXYZW": [ -0.006016, 0.998936, 0.045141, 0.007220 ],
+        "Comment": "gyro-to-camera rotation. gyro_in_cam_coords =  QuaternionXYZW * gyro * inv(QuaternionXYZW)",
+        "Translation": [0,0,0],
+        "Comment": "Translation between camera and IMU. Not calibrated currently"
+      },
+      "IMU_time_add": -1.5241,
+      "Comment": "Milliseconds - add this time to IMU timestamps to synchronize to visual data. Note, this time is relevant only for the current sensor crop and assumes frame timestamps are at end of readout ",
+      "accel_bias": [0,0,0],
+      "Comment": "accelerometer bias, x,y,z, m/s^2. Not calibrated currently",
+      "accel_bias_variance": [0,0,0],
+      "Comment": "accuracy of accelerometer bias, x,y,z, m/s^2. Not calibrated currently",
+      "accel_scale":[1,1,1],
+      "Comment": "accelerometer scale, x,y,z. Not calibrated currently",
+      "accel_scale_variance": [0,0,0],
+      "Comment": "accuracy of accelerometer scale, x,y,z, m/s^2. Not calibrated currently",
+      "gyro_bias": [ 0.00727539, -0.00712074, -0.000987335 ],
+      "Comment": "gyro bias, x,y,z, rad/s.",
+      "gyro_bias_variance": [ 0,0,0 ],
+      "Comment": "accuracy of the gyro bias, x,y,z, rad/s.",
+      "gyro_scale":[ 1.147102, 1.152715, 1.147163 ],
+      "Comment": "gyro scale, x,y,z. Multiply gyro data by it to match the visual data",
+      "gyro_scale_variance": [0,0,0],
+      "Comment": "accuracy of gyro scale",
+      "final_error": 0.103189,
+      "Comment": "Mean frame-to-frame motion of the detected and stabilized markets of the chart, pixels"
+    }
+  ]
+}

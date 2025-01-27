@@ -1,0 +1,346 @@
+{
+  "ARAcceptReTOSMutation": {
+    "client_doc_id": "131211915916784961695359250924",
+    "schema": "ar"
+  },
+  "ARCreateReminder": {
+    "client_doc_id": "5286166214055003499539059205",
+    "schema": "ar"
+  },
+  "ARDeleteReminder": {
+    "client_doc_id": "8417674513584188101194819212",
+    "schema": "ar"
+  },
+  "ARGetAIModelsFromManifold": {
+    "client_doc_id": "334911030415675087528047779245",
+    "schema": "ar"
+  },
+  "ARGetCameraRotationForSerial": {
+    "client_doc_id": "40945782271214345558381601968",
+    "schema": "ar"
+  },
+  "ARGetEarlyAccessStatus": {
+    "client_doc_id": "81342705811926570859156727427",
+    "schema": "ar"
+  },
+  "ARGetMediaFromPhotosHub": {
+    "client_doc_id": "342534046211197367438246245926",
+    "schema": "ar"
+  },
+  "ARMWAPhotosHubMedia": {
+    "client_doc_id": "9496026555816979018885610070",
+    "schema": "ar"
+  },
+  "ARMWAPhotosHubUpdateLogs": {
+    "client_doc_id": "279055979614486497942426466556",
+    "schema": "ar"
+  },
+  "ARUpdateReminder": {
+    "client_doc_id": "7154521566948469903208604081",
+    "schema": "ar"
+  },
+  "ARUserWearableDeviceInfo": {
+    "client_doc_id": "36562490805974156411483059609",
+    "schema": "ar"
+  },
+  "AddMediaToAlbum": {
+    "client_doc_id": "358146327717854293870375804116",
+    "schema": "ar"
+  },
+  "ArHomeTabModulesQuery": {
+    "client_doc_id": "38240919229499119524034310118",
+    "schema": "ar"
+  },
+  "ArPartnerCouponRedeemMetadata": {
+    "client_doc_id": "347014354316969042803039698333",
+    "schema": "ar"
+  },
+  "ArPartnerSettingsItemsQuery": {
+    "client_doc_id": "399497324913645759366556836761",
+    "schema": "ar"
+  },
+  "ArProviderCategoryMetadata": {
+    "client_doc_id": "194752226012352016260953118013",
+    "schema": "ar"
+  },
+  "ArPushTokenPairingStateMutation": {
+    "client_doc_id": "14661487517303702405985847200",
+    "schema": "ar"
+  },
+  "ArStellaDeleteAllVoiceActivity": {
+    "client_doc_id": "89234214016030936600508660397",
+    "schema": "ar"
+  },
+  "ArStellaDeleteVoiceActivity": {
+    "client_doc_id": "52909022913685968603368161930",
+    "schema": "ar"
+  },
+  "ArStellaDeviceResgistration": {
+    "client_doc_id": "23425635768945210495722184829",
+    "schema": "ar"
+  },
+  "ArStellaMultiDeleteVoiceActivity": {
+    "client_doc_id": "42007157911564957836726906489",
+    "schema": "ar"
+  },
+  "ArStellaReportVoiceActivity": {
+    "client_doc_id": "7085355209914584124621661679",
+    "schema": "ar"
+  },
+  "ArStellaUpdateUserVoiceStorageStrategy": {
+    "client_doc_id": "42270201713092496830831488120",
+    "schema": "ar"
+  },
+  "ArStellaUserVoiceStorageStrategy": {
+    "client_doc_id": "17794981025913483961107653305",
+    "schema": "ar"
+  },
+  "ArStellaVoiceActivity": {
+    "client_doc_id": "387367596316272709704505793428",
+    "schema": "ar"
+  },
+  "ArUserProfileQuery": {
+    "client_doc_id": "13350484664022548067386080197",
+    "schema": "ar"
+  },
+  "AutoCaptureSegmentQuery": {
+    "client_doc_id": "37444761176243261575855125060",
+    "schema": "ar"
+  },
+  "CSTEntRLAppConsentMutation": {
+    "client_doc_id": "119607989117801903393577317804",
+    "schema": "ar"
+  },
+  "CSTEntRLDeviceConsentMutation": {
+    "client_doc_id": "238460492614847079559575902275",
+    "schema": "ar"
+  },
+  "CommitInProgressUpdate": {
+    "client_doc_id": "117864226912412754188464766656",
+    "schema": "ar"
+  },
+  "CompanionBloksAppRootQuery": {
+    "client_doc_id": "31268722357967618554032078313",
+    "schema": "ar"
+  },
+  "CompanionBloksAsyncActionQuery": {
+    "client_doc_id": "357375169813987282084329457511",
+    "schema": "ar"
+  },
+  "CreateMediaContainer": {
+    "client_doc_id": "10134525534921997374177608061",
+    "schema": "ar"
+  },
+  "CreateMediaContextualContentRecommendation": {
+    "client_doc_id": "207149528718014547263038455084",
+    "schema": "ar"
+  },
+  "CreateOrGetFacesAlbum": {
+    "client_doc_id": "196860659410714705311227807070",
+    "schema": "ar"
+  },
+  "CreatePhotoAssetEnts": {
+    "client_doc_id": "28076961444879204823990515924",
+    "schema": "ar"
+  },
+  "CreateTranslatedMedia": {
+    "client_doc_id": "27443747585006938316847646946",
+    "schema": "ar"
+  },
+  "CreateUserPhotoEdits": {
+    "client_doc_id": "38792165343165925802512792520",
+    "schema": "ar"
+  },
+  "CreateUserTags": {
+    "client_doc_id": "31241067912287135115064375578",
+    "schema": "ar"
+  },
+  "CreateUserVideoEdits": {
+    "client_doc_id": "265426734110432211293838203455",
+    "schema": "ar"
+  },
+  "CreateVideoAssetEnts": {
+    "client_doc_id": "21301643999823126807563838296",
+    "schema": "ar"
+  },
+  "DeletePhotosVideosMutation": {
+    "client_doc_id": "45678241916431991603128315291",
+    "schema": "ar"
+  },
+  "EduEligibility": {
+    "client_doc_id": "11935486476677856203769538994",
+    "schema": "ar"
+  },
+  "FBViewDownloadLinkQuery": {
+    "client_doc_id": "59425413717423621853338873891",
+    "schema": "ar"
+  },
+  "FetchConstellationFeatureUpdates": {
+    "client_doc_id": "106497323011057045800739462513",
+    "schema": "ar"
+  },
+  "FetchConstellationUpdates": {
+    "client_doc_id": "155904535313187378418203023711",
+    "schema": "ar"
+  },
+  "FetchEncryptedKEKInfoByKEKId": {
+    "client_doc_id": "31369992572299087926966744100",
+    "schema": "ar"
+  },
+  "FetchSystemUpdates": {
+    "client_doc_id": "297447816512732024398027762100",
+    "schema": "ar"
+  },
+  "GenerateWearableImageFromPrompt": {
+    "client_doc_id": "30601757546606281219407096622",
+    "schema": "ar"
+  },
+  "GetCompatibleFeaturesForBundle": {
+    "client_doc_id": "31165666958562540888742846326",
+    "schema": "ar"
+  },
+  "GetFoAContentRecommendation": {
+    "client_doc_id": "28387814296238277978132222461",
+    "schema": "ar"
+  },
+  "GetPHMediaContextualContentRecommendation": {
+    "client_doc_id": "28918002781774531782018037075",
+    "schema": "ar"
+  },
+  "HelpAndSupportShortResponseQuery": {
+    "client_doc_id": "38657365487200366919619095984",
+    "schema": "ar"
+  },
+  "HelpSearchRelatedArticlesQuery": {
+    "client_doc_id": "359868736815148816299208192459",
+    "schema": "ar"
+  },
+  "LinkedAccountToggle": {
+    "client_doc_id": "279991160112658738704122516869",
+    "schema": "ar"
+  },
+  "MWAOptedInVoiceTipsMutation": {
+    "client_doc_id": "201492198713594705908349886",
+    "schema": "ar"
+  },
+  "MWAOptedInVoiceTipsQuery": {
+    "client_doc_id": "32432857811281657524024950815",
+    "schema": "ar"
+  },
+  "MarketingEmailSubscriptionQuery": {
+    "client_doc_id": "42355722116572626763139855927",
+    "schema": "ar"
+  },
+  "MarketingEmailSubscriptionToggleMutation": {
+    "client_doc_id": "417031639115502622498589730203",
+    "schema": "ar"
+  },
+  "MetaLinkedAccounts": {
+    "client_doc_id": "321418639115234697544710687408",
+    "schema": "ar"
+  },
+  "MetaOwnedDevices": {
+    "client_doc_id": "297581407013866472851857770817",
+    "schema": "ar"
+  },
+  "MetagenImageGenQuery": {
+    "client_doc_id": "184160239918329748962384195059",
+    "schema": "ar"
+  },
+  "MinimalAnonymousWpsIndexDownloadGraphQL": {
+    "client_doc_id": "4452400394966829647686177369",
+    "schema": "ar"
+  },
+  "MwaGqlAcsConfigQuery": {
+    "client_doc_id": "28026283041984476263616585319",
+    "schema": "ar"
+  },
+  "MwaGqlAcsIssuanceQuery": {
+    "client_doc_id": "314056350114558002152141269409",
+    "schema": "ar"
+  },
+  "OnDemandQuickPromotion": {
+    "client_doc_id": "223531206315816432431944805980",
+    "schema": "ar"
+  },
+  "OpenStreetSegmentsGraphQL": {
+    "client_doc_id": "16198174324055026841205764292",
+    "schema": "ar"
+  },
+  "PfListQuery": {
+    "client_doc_id": "164913898513728766985554530594",
+    "schema": "ar"
+  },
+  "PublishToFoA": {
+    "client_doc_id": "1705833064469460049881770659",
+    "schema": "ar"
+  },
+  "PublishToFoAV2": {
+    "client_doc_id": "409440782114583058438985283915",
+    "schema": "ar"
+  },
+  "RemoveMediaFromAlbum": {
+    "client_doc_id": "4143938982960067887281760958",
+    "schema": "ar"
+  },
+  "SaveGenAiMediaToAlbum": {
+    "client_doc_id": "11524881599099858979345258246",
+    "schema": "ar"
+  },
+  "SceneReaderQuery": {
+    "client_doc_id": "401953359511412582579311677325",
+    "schema": "ar"
+  },
+  "SetEAPFeatureStatus": {
+    "client_doc_id": "2823898204995227883899772971",
+    "schema": "ar"
+  },
+  "SetEAPSettingsStatus": {
+    "client_doc_id": "29668845929296418268237418475",
+    "schema": "ar"
+  },
+  "SettingsSnapshotMutation": {
+    "client_doc_id": "309379480516742048318667047084",
+    "schema": "ar"
+  },
+  "Supernova3PEcosystemAccountLinkingConsentURIQuery": {
+    "client_doc_id": "16548257079355744060194264167",
+    "schema": "ar"
+  },
+  "Supernova3PEcosystemAccountLinkingCreateAccessTokenMutation": {
+    "client_doc_id": "2018113528253079934901501965",
+    "schema": "ar"
+  },
+  "Supernova3PEcosystemAccountLinkingLinkedStatusMutation": {
+    "client_doc_id": "31168690046761282991243718183",
+    "schema": "ar"
+  },
+  "Supernova3PEcosystemAccountLinkingRenewAccessTokenMutation": {
+    "client_doc_id": "220951447016296230103834095343",
+    "schema": "ar"
+  },
+  "Supernova3PEcosystemAccountLinkingSDKLoginDetailsMutation": {
+    "client_doc_id": "204756199114757183545795046793",
+    "schema": "ar"
+  },
+  "Supernova3PEcosystemAccountUnlinkUriQuery": {
+    "client_doc_id": "16981129023987705215964906991",
+    "schema": "ar"
+  },
+  "WearableAppAvailableUpdate": {
+    "client_doc_id": "15226397012427094419390404032",
+    "schema": "ar"
+  },
+  "WearableAppDownloadLinkQuery": {
+    "client_doc_id": "12712528012285473887710716257",
+    "schema": "ar"
+  },
+  "WearableCalendarListEventsQuery": {
+    "client_doc_id": "38846628813686289315740698573",
+    "schema": "ar"
+  },
+  "WearableNotificationEventMutation": {
+    "client_doc_id": "9141566886495183021433354419",
+    "schema": "ar"
+  }
+}
