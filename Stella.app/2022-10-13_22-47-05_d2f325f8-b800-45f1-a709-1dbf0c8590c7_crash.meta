@@ -1,0 +1,25 @@
+
+'
+acra_report_typeNATIVE_CRASH_REPORT
+1
+	device_id$3d44308c-1f84-4b9e-aafb-be17576cd17c
+T
+data[report_id]A/data/misc/crashdata/sgtelemetryservice_2022-10-13_22-47-05.crash
+M
+minidumpA/data/misc/crashdata/sgtelemetryservice_2022-10-13_22-47-05.crash
+N
+	report_idA/data/misc/crashdata/sgtelemetryservice_2022-10-13_22-47-05.crash
+
+build_id1
+
+app_id1193866611193062
+ 
+data[app_id]1193866611193062
+ 
+log_typeandroid_large_native
+W
+logcat_pathH/data/misc/crashdata/sgtelemetryservice_2022-10-13_22-47-05.crash.logcat
+
+data[mobile_app_build]1
+7
+data[device_id]$3d44308c-1f84-4b9e-aafb-be17576cd17c

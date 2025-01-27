@@ -1,0 +1,318 @@
+{
+  "videoTuningParameters": {
+    "Version": "v7.0",
+    "exposureTimes": [0.01, 0.02, 0.03],
+    "VideoDenoiseParameters": {
+      "spatialDenoiseStrengthYs": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "spatialDenoiseStrengthUvs": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "denoiseStrengthUvs": [
+        0.699999988079071,
+        0.699999988079071,
+        0.699999988079071
+      ],
+      "denoiseStrengthYs": [
+        0.10000000149011612,
+        0.10000000149011612,
+        0.10000000149011612
+      ]
+    },
+    "VideoStabParameters": {
+      "UltraSmooth": {
+        "targetMargin": 0.20000000298023224,
+        "exposureSecs": [
+          0.009999999776482582,
+          0.019999999552965164,
+          0.029999999329447746
+        ],
+        "firstOrderSmoothnessCosts": [
+          1,
+          1,
+          1
+        ],
+        "lowLightSmoothnessSecondOrderCosts": [
+          3,
+          3,
+          3
+        ],
+        "thirdOrderSmoothnessCosts": [
+          0.33329999446868896,
+          0.33329999446868896,
+          0.33329999446868896
+        ],
+        "blurConsistencyFactors": [
+          0,
+          0,
+          0
+        ],
+        "maxNumIterations": 1,
+        "lowLightExpThresholds": [
+          0.010999999940395355,
+          0.020999999716877937,
+          0.03200000151991844
+        ],
+        "blurConsistencyAngularThresholds": [
+          0.00800000037997961,
+          0.004000000189989805,
+          0.0020000000949949026
+        ],
+        "secondOrderSmoothnessCosts": [
+          0.10000000149011612,
+          0.10000000149011612,
+          0.10000000149011612
+        ],
+        "blurConsistencySigmas": [
+          0.10000000149011612,
+          0.10000000149011612,
+          0.10000000149011612
+        ],
+        "rotateCoordinate": 1,
+        "maxMargin": 0.30000001192092896,
+        "rollCosts": [
+          35,
+          35,
+          35
+        ],
+        "marginCosts": [
+          40,
+          40,
+          40
+        ],
+        "enableLowlight": false,
+        "enableMidlight": false,
+        "neighborFrames": 5,
+        "enablePerFrameChecks": false,
+        "perFrameBlurConsistencyFactors": [
+          0,
+          0.6000000238418579,
+          0.10000000149011612
+        ],
+        "perFrameBlurConsistencyAngularThresholds": [
+          0.00800000037997961,
+          0.00800000037997961,
+          0.00800000037997961
+        ],
+        "lowLightSmoothnessFirstOrderCosts": [
+          100,
+          100,
+          100
+        ]
+      },
+      "Balanced": {
+        "targetMargin": 0.10000000149011612,
+        "exposureSecs": [
+          0.009999999776482582,
+          0.019999999552965164,
+          0.029999999329447746
+        ],
+        "firstOrderSmoothnessCosts": [
+          1,
+          1,
+          1
+        ],
+        "lowLightSmoothnessSecondOrderCosts": [
+          3,
+          3,
+          3
+        ],
+        "thirdOrderSmoothnessCosts": [
+          0.33329999446868896,
+          0.33329999446868896,
+          0.33329999446868896
+        ],
+        "blurConsistencyFactors": [
+          0,
+          0,
+          0
+        ],
+        "maxNumIterations": 1,
+        "lowLightExpThresholds": [
+          0.010999999940395355,
+          0.020999999716877937,
+          0.03200000151991844
+        ],
+        "blurConsistencyAngularThresholds": [
+          0.00800000037997961,
+          0.00800000037997961,
+          0.00800000037997961
+        ],
+        "secondOrderSmoothnessCosts": [
+          0.10000000149011612,
+          0.10000000149011612,
+          0.10000000149011612
+        ],
+        "blurConsistencySigmas": [
+          0.10000000149011612,
+          0.10000000149011612,
+          0.10000000149011612
+        ],
+        "rotateCoordinate": 1,
+        "maxMargin": 0.20000000298023224,
+        "rollCosts": [
+          35,
+          35,
+          35
+        ],
+        "marginCosts": [
+          40,
+          40,
+          40
+        ],
+        "enableLowlight": true,
+        "enableMidlight": true,
+        "neighborFrames": 5,
+        "enablePerFrameChecks": true,
+        "perFrameBlurConsistencyFactors": [
+          0,
+          0.6000000238418579,
+          0.10000000149011612
+        ],
+        "perFrameBlurConsistencyAngularThresholds": [
+          0.00800000037997961,
+          0.00800000037997961,
+          0.00800000037997961
+        ],
+        "lowLightSmoothnessFirstOrderCosts": [
+          100,
+          100,
+          100
+        ]
+      },
+      "Sports": {
+        "targetMargin": 0.009999999776482582,
+        "exposureSecs": [
+          0.009999999776482582,
+          0.019999999552965164,
+          0.029999999329447746
+        ],
+        "firstOrderSmoothnessCosts": [
+          1,
+          1,
+          1
+        ],
+        "lowLightSmoothnessSecondOrderCosts": [
+          3,
+          3,
+          3
+        ],
+        "thirdOrderSmoothnessCosts": [
+          0.33329999446868896,
+          0.33329999446868896,
+          0.33329999446868896
+        ],
+        "blurConsistencyFactors": [
+          0,
+          0,
+          0
+        ],
+        "maxNumIterations": 1,
+        "lowLightExpThresholds": [
+          0.010999999940395355,
+          0.020999999716877937,
+          0.03200000151991844
+        ],
+        "blurConsistencyAngularThresholds": [
+          0.00800000037997961,
+          0.00800000037997961,
+          0.00800000037997961
+        ],
+        "secondOrderSmoothnessCosts": [
+          0.10000000149011612,
+          0.10000000149011612,
+          0.10000000149011612
+        ],
+        "blurConsistencySigmas": [
+          0.10000000149011612,
+          0.10000000149011612,
+          0.10000000149011612
+        ],
+        "rotateCoordinate": 1,
+        "maxMargin": 0.009999999776482582,
+        "rollCosts": [
+          35,
+          35,
+          35
+        ],
+        "marginCosts": [
+          40,
+          40,
+          40
+        ],
+        "enableLowlight": true,
+        "enableMidlight": true,
+        "neighborFrames": 5,
+        "enablePerFrameChecks": true,
+        "perFrameBlurConsistencyFactors": [
+          0,
+          0.6000000238418579,
+          0.10000000149011612
+        ],
+        "perFrameBlurConsistencyAngularThresholds": [
+          0.00800000037997961,
+          0.00800000037997961,
+          0.00800000037997961
+        ],
+        "lowLightSmoothnessFirstOrderCosts": [
+          100,
+          100,
+          100
+        ]
+      }
+    },
+    "VideoAutoEnhanceParameters": {
+      "lowlightExposureTimeThreshold": 0.03200000151991844,
+      "vibranceGain": [
+        1,
+        1,
+        1
+      ],
+      "saturationGain": [
+        1,
+        1,
+        1
+      ],
+      "clarityGain": [
+        -1,
+        -1,
+        -1
+      ],
+      "lowPoint": [
+        -1,
+        -1,
+        -1
+      ],
+      "sharpeningGain": [
+        0.20000000298023224,
+        0.5,
+        0.6000000238418579
+      ],
+      "strength": [
+        2,
+        2,
+        2
+      ],
+      "highlightsGain": [
+        -1,
+        -1,
+        -1
+      ],
+      "shadowsGain": [
+        1,
+        1,
+        1
+      ],
+      "highPoint": [
+        -1,
+        -1,
+        -1
+      ]
+    }
+  }
+}

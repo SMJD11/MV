@@ -1,0 +1,110 @@
+{
+  "ARAutoCaptureSegmentQuery": {
+    "client_doc_id": "390478406910338394262259389263",
+    "schema": "ar"
+  },
+  "ARDeleteReminder": {
+    "client_doc_id": "8417674512942956568911721017",
+    "schema": "ar"
+  },
+  "ARFetchAutoCaptureResults": {
+    "client_doc_id": "35087489765404875117271167922",
+    "schema": "ar"
+  },
+  "ARSelectAutocapture": {
+    "client_doc_id": "42454986717027929845235423465",
+    "schema": "ar"
+  },
+  "ARStellaDeleteAllVoiceActivity": {
+    "client_doc_id": "41153135121281840357539408227",
+    "schema": "ar"
+  },
+  "ARStellaDeleteVoiceActivity": {
+    "client_doc_id": "172163729211574138951684671485",
+    "schema": "ar"
+  },
+  "ARStellaMultiDeleteVoiceActivity": {
+    "client_doc_id": "428820068112521873079621009029",
+    "schema": "ar"
+  },
+  "ARStellaReportVoiceActivity": {
+    "client_doc_id": "19841294641421590963956765088",
+    "schema": "ar"
+  },
+  "ARStellaVoiceActivity": {
+    "client_doc_id": "948090854945665467271736266",
+    "schema": "ar"
+  },
+  "ARUpdateReminder": {
+    "client_doc_id": "7154521566948469903208604081",
+    "schema": "ar"
+  },
+  "EarlyAccessProgramStatusMutationMutation": {
+    "client_doc_id": "60757054718299559222989437349",
+    "schema": "ar"
+  },
+  "FBViewARDownloadLinkQuery": {
+    "client_doc_id": "18471148122527155236863433161",
+    "schema": "ar"
+  },
+  "FWABloksActionRootQuery": {
+    "client_doc_id": "65881422217122054534632277969",
+    "schema": "ar"
+  },
+  "FWABloksAppRootQuery": {
+    "client_doc_id": "185814238614120839001387709847",
+    "schema": "ar"
+  },
+  "FetchConstellationFeatureUpdates": {
+    "client_doc_id": "1064973230376743882798318614",
+    "schema": "ar"
+  },
+  "FetchConstellationUpdates": {
+    "client_doc_id": "15590453539208448125571670733",
+    "schema": "ar"
+  },
+  "HomeTabQuery": {
+    "client_doc_id": "477697014333653831760609894",
+    "schema": "ar"
+  },
+  "SmartGlassesAttributesQuery": {
+    "client_doc_id": "21375390413579711513877266508",
+    "schema": "ar"
+  },
+  "Supernova3PAuthenticationFetchTokens": {
+    "client_doc_id": "20956694663893776449670801200",
+    "schema": "ar"
+  },
+  "Supernova3PDefaultProviderQuery": {
+    "client_doc_id": "27598412089346404223946124851",
+    "schema": "ar"
+  },
+  "Supernova3PEcosystemAccountLinkingConsentURIQuery": {
+    "client_doc_id": "16548257073283975387121509903",
+    "schema": "ar"
+  },
+  "Supernova3PEcosystemAccountLinkingCreateAccessTokenMutation": {
+    "client_doc_id": "201811352810384153921627443175",
+    "schema": "ar"
+  },
+  "Supernova3PEcosystemAccountLinkingRenewAccessTokenMutation": {
+    "client_doc_id": "220951447017662456627051336645",
+    "schema": "ar"
+  },
+  "Supernova3PEcosystemAccountLinkingSDKLoginDetailsMutation": {
+    "client_doc_id": "20475619919705980553974965633",
+    "schema": "ar"
+  },
+  "Supernova3PFetchCouponCode": {
+    "client_doc_id": "70029641195728053572863937",
+    "schema": "ar"
+  },
+  "Supernova3PPartnerCategoryQuery": {
+    "client_doc_id": "41979255512859375054775603277",
+    "schema": "ar"
+  },
+  "WearableAppDownloadLinkQuery": {
+    "client_doc_id": "127125280110971796805959995329",
+    "schema": "ar"
+  }
+}

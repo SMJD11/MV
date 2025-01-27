@@ -1,0 +1,26 @@
+{
+  "FBViewDownloadLinkQuery": {
+    "client_doc_id": "59425413715022627063020284160",
+    "schema": "facebook"
+  },
+  "StellaDeleteAllVoiceActivity": {
+    "client_doc_id": "411783842511270438692504054311",
+    "schema": "facebook"
+  },
+  "StellaDeleteVoiceActivity": {
+    "client_doc_id": "40396772278315328575211103870",
+    "schema": "facebook"
+  },
+  "StellaMultiDeleteVoiceActivity": {
+    "client_doc_id": "52711801510180424653478346916",
+    "schema": "facebook"
+  },
+  "StellaReportVoiceActivity": {
+    "client_doc_id": "206760402915268975667403549547",
+    "schema": "facebook"
+  },
+  "StellaVoiceActivity": {
+    "client_doc_id": "164635037114094396541419405078",
+    "schema": "facebook"
+  }
+}
